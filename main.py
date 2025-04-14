@@ -5,7 +5,7 @@ from keep_alive import keep_alive
 
 keep_alive()
 
-DISCORD_TOKEN = ""
+DISCORD_TOKEN = "MTM2MTE5NTAxMDk5Mjc3MTA3Mw.G_cIv7.-UalWKDPWbkJJRwC4ufVdr2SlnzCxEWfGotmz0"
 OR_API_KEY = "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"
 OR_API_URL = "https://openrouter.ai/api/v1/chat/completions"
 
